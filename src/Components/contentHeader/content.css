@@ -1,0 +1,113 @@
+
+#time {
+    text-align: end;
+    margin-top: -3%;
+}
+#hd{
+   margin: 10px;
+   padding: 5px;
+   
+}
+#deg1{
+    background-color:rgba(50, 45, 45, 0.5);
+    border-radius: 20px;
+    /* padding-top: 5px; */
+    /* padding-bottom: 5px; */
+    color: white;
+    font-weight: bold;
+    height: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+#mn{
+margin-top: 2%;
+font-family: 'Carter One'
+
+}
+@media screen and (max-width:576px) {
+    #deg,#deg1{
+       height:auto ;
+        margin-top: 3%;
+        margin-left: 7.85%;
+   
+    }
+    #hd{
+        margin-top: 5px;
+        margin-bottom: 5px;
+      
+    }
+    #mn{
+        justify-content: center;
+        
+        }
+    }
+
+    
+
+#space{
+    width: 5px;
+}
+#pr{
+    margin-bottom: 5px;
+}
+#image{
+    height: 90px;
+    width: 90px;
+    margin-top: -67px;
+   
+}
+#ko {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: -15px;
+}
+#yes{
+    height: 30px;
+    width: 35px;
+}
+#pp {
+    margin-top: -21px;
+    font-family: 'Dangrek';
+    font-size: 19px;
+    color: #d7ded9;
+}
+@media screen and (max-width:726px) {
+    #ko {
+    
+        font-weight: bold;
+        margin-top: -39px;
+    }
+    #image{
+      
+        margin-top: -88px;
+       
+    }
+}
+#cont{
+    font-family: 'Chewy';
+ 
+    color: brown;
+    font-size: 24px;
+}
+#kk{
+    font-family: 'Concert One';
+    color: rgba(226, 255, 8, 0.774);
+    font-size: 26px;
+}
+#pop{
+    color:orange ;
+font-size: 26px;
+}
+p{
+    color: rgb(244, 242, 238);
+}
+#kng{
+    color: gold;
+    font-weight: 400;
+}
+#po{
+    font-size: 30px;
+    color:orange ;
+
+}
